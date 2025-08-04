@@ -387,6 +387,7 @@ for model in models:
     print(model)
 ```
 
+
 ## Usage – CLI
 
 ### Chat Completions
